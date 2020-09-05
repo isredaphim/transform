@@ -52,9 +52,9 @@
 <div class="contents"> 
 		<div class="contented"> <img src="pics/background.jpg" style="width: 850px; height: 400px;"/> </div>
 		<div class="botcont"> 
-				<div class="boxes"> <img src="pics/pic2.jpg" style="width: 250px; height: 200px;"/> </div>
-				<div class="boxes"> <img src="pics/pic3.jpg" style="width: 250px; height: 200px;"/> </div>
-				<div class="boxes"> <img src="pics/pic4.jpg" style="width: 250px; height: 200px;"/> </div>
+				<div class="boxes"> <img src="pic2.jpg" style="width: 250px; height: 200px;"/> </div>
+				<div class="boxes"> <img src="pic3.jpg" style="width: 250px; height: 200px;"/> </div>
+				<div class="boxes"> <img src="pic4.jpg" style="width: 250px; height: 200px;"/> </div>
 		</div>
 
 
